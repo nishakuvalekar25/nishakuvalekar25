@@ -1,4 +1,6 @@
-![Blue Modern Gradient Technology LinkedIn Banner](https://github.com/nishakuvalekar25/nishakuvalekar25/assets/121301819/f5287a4a-dc8f-46f9-9f75-cc23158604e2)
+![Banner](https://github.com/nishakuvalekar25/nishakuvalekar25/assets/121301819/6079b38b-ff37-44aa-bf49-3848240a6153)
+
+
 
 ### Hi there, I'm Nisha, UI/UX Designer & Web Developer! 👋
 Welcome to my creative space on GitHub! I'm passionate about crafting beautiful user experiences and turning ideas into interactive web solutions.
@@ -40,7 +42,6 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 
-![Nisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishakuvalekar25&show_icons=true&theme=radical)
+![Nisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishakuvalekar25&show_icons=true&theme=tokyonight)
 
 
-## Connect with Me
