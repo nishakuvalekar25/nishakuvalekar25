@@ -77,4 +77,5 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/InVision-FF3366?style=for-the-badge&logo=InVision&logoColor=white)
 ![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
- 
+ ## Let's Connect!
+[Nisha Kuvalekar - LinkedIn](https://www.linkedin.com/in/nisha-kuvalekar-02218327a/)
