@@ -1,3 +1,5 @@
+![Blue Modern Gradient Technology LinkedIn Banner](https://github.com/nishakuvalekar25/nishakuvalekar25/assets/121301819/f5287a4a-dc8f-46f9-9f75-cc23158604e2)
+
 ### Hi there 👋
 
 <!--
