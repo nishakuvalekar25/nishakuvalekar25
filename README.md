@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## About Me
 
-- 🎨 UI/UX Designer and Front-End Developer<!-- 💼 Currently working on [Current Job/Project]-->
+- 🎨 UI/UX Designer and Web Developer<!-- 💼 Currently working on [Current Job/Project]-->
 - 🌱 Always learning and exploring new design trends
 - 👯 Open to collaboration on design projects or web development tasks
 - 📫 Reach out to me [Here](https://www.linkedin.com/in/nisha-kuvalekar-02218327a/)
