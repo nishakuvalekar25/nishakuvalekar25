@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
  https://eom6wx6aww68ei7.m.pipedream.net
 -->
-![counter](https://[eom6wx6aww68ei7.m.pipedream.net/)
+
 ## About Me
 
 - 🎨 UI/UX Designer and Web Developer<!-- 💼 Currently working on [Current Job/Project]-->
