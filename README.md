@@ -2,7 +2,8 @@
 
 
 
-### Hi there, I'm Nisha, UI/UX Designer & Web Developer! 👋
+## Hi there, I'm Nisha Kuvalekar, 
+### UI/UX Designer & Web Developer! 👋
 Welcome to my creative space on GitHub! I'm passionate about crafting beautiful user experiences and turning ideas into interactive web solutions.
 <!--
 **nishakuvalekar25/nishakuvalekar25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,15 +18,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+ https://eom6wx6aww68ei7.m.pipedream.net
 -->
-
+![counter](https://[eom6wx6aww68ei7.m.pipedream.net/)
 ## About Me
 
 - 🎨 UI/UX Designer and Web Developer<!-- 💼 Currently working on [Current Job/Project]-->
 - 🌱 Always learning and exploring new design trends
 - 👯 Open to collaboration on design projects or web development tasks
+- 🔭 I’m currently working on Budget Buddy (Expense Tracker App)
+- 🌱 I’m currently learning WEthical Design
 - 📫 Reach out to me [Here](https://www.linkedin.com/in/nisha-kuvalekar-02218327a/)
-
+<!--
 ## I'm currently working on
 
 - My old projects
@@ -40,7 +44,7 @@ Here are some ideas to get you started:
 - Wireframing and Prototyping
 - Visual Design
 - JavaScript
-
+-->
 <!--
 ## Design Skills
 
