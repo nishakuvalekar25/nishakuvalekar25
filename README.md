@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
  https://eom6wx6aww68ei7.m.pipedream.net
 -->
-[![HitCount](https://hits.dwyl.com/nishakuvalekar25/nishakuvalekar25.svg?style=flat&show=unique)](http://hits.dwyl.com/nishakuvalekar25/nishakuvalekar25)
 
 ## About Me
 
