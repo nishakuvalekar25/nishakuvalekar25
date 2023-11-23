@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 🌱 Always learning and exploring new design trends
 - 👯 Open to collaboration on design projects or web development tasks
 - 🔭 I’m currently working on Budget Buddy (Expense Tracker App)
-- 🌱 I’m currently learning WEthical Design
+- 🌱 I’m currently learning Ethical Design
 - 📫 Reach out to me [Here](https://www.linkedin.com/in/nisha-kuvalekar-02218327a/)
 <!--
 ## I'm currently working on
