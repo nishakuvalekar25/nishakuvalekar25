@@ -2,9 +2,9 @@
 
 
 
-## Hi there, I'm Nisha Kuvalekar, 
-### UI/UX Designer & Web Developer! 👋
-Welcome to my creative space on GitHub! I'm passionate about crafting beautiful user experiences and turning ideas into interactive web solutions.
+<h1 align="center">Hi 👋, I'm Nisha Kuvalekar</h1>
+<h3 align="center">A passionate Web Developer from India</h3>
+
 <!--
 **nishakuvalekar25/nishakuvalekar25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,13 +22,21 @@ Here are some ideas to get you started:
 -->
 
 ## About Me
-
-- 🎨 UI/UX Designer and Web Developer<!-- 💼 Currently working on [Current Job/Project]-->
+<!--
+- 🎨 UI/UX Designer and Web Developer 💼 Currently working on [Current Job/Project]-->
 - 🌱 Always learning and exploring new design trends
-- 👯 Open to collaboration on design projects or web development tasks
-- 🔭 I’m currently working on Budget Buddy (Expense Tracker App)
-- 🌱 I’m currently learning Ethical Design
-- 📫 Reach out to me [Here](https://www.linkedin.com/in/nisha-kuvalekar-02218327a/)
+  
+- 👯 Open to collaboration on *design projects* or *web development tasks*
+  
+- 🔭 I’m currently working on **Budget Buddy (Expense Tracker App)**
+  
+- 📫 Reach out to me **nishakuvalekar25@gmail.com**
+  
+<h2 align="left">Let's Connect!</h2>
+<p align="left">
+<a href="https://www.linkedin.com/in/nisha-kuvalekar-02218327a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nisha-kuvalekar-02218327a" height="30" width="40" /></a>
+<a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nisha_kuvalekar" height="30" width="40" /></a>
+</p>
 <!--
 ## I'm currently working on
 
@@ -59,10 +67,6 @@ Here are some ideas to get you started:
 - 🚀 Responsive Web Design
 - 📱 Mobile-First Development<!--- 🛠️ Basic knowledge of [Any Framework or Library]-->
 
-## GitHub Stats
-
-![Nisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishakuvalekar25&show_icons=true&theme=tokyonight&rank_icon)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishakuvalekar25&layout=donut&theme=tokyonight)
-
 ## Technical Skills
 
 ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
@@ -81,5 +85,12 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/InVision-FF3366?style=for-the-badge&logo=InVision&logoColor=white)
 ![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
- ## Let's Connect!
-[Nisha Kuvalekar - LinkedIn](https://www.linkedin.com/in/nisha-kuvalekar-02218327a/)
+## GitHub Stats
+
+[![Nisha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nishakuvalekar25&theme=tokyo-night&custom_title=Nisha's%20github%20activity%20graph&hide_border=true)](https://github.com/nishakuvalekar25/github-readme-activity-graph)
+
+
+![Nisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishakuvalekar25&show_icons=true&theme=tokyonight&rank_icon)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishakuvalekar25&layout=donut&theme=tokyonight)
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishakuvalekar25&theme=tokyonight" alt="nishakuvalekar" /></p>
