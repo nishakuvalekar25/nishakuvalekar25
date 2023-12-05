@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 
-[![Nisha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nishakuvalekar25&theme=tokyo-night&custom_title=Nisha's%20github%20activity%20graph&hide_border=true)](https://github.com/nishakuvalekar25/github-readme-activity-graph)
+<!--[![Nisha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nishakuvalekar25&theme=tokyo-night&custom_title=Nisha's%20github%20activity%20graph&hide_border=true)](https://github.com/nishakuvalekar25/github-readme-activity-graph)-->
 
 
 ![Nisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishakuvalekar25&show_icons=true&theme=tokyonight&rank_icon)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishakuvalekar25&layout=donut&theme=tokyonight)
