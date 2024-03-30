@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **nishakuvalekar25@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18Ij7bJfb3_ZrRKqBvQ2qSMuuFQqFkPMa/view?usp=sharing](https://drive.google.com/file/d/18Ij7bJfb3_ZrRKqBvQ2qSMuuFQqFkPMa/view?usp=sharing)
+- 📄 Know about my experiences [Nisha Kuvalekar's Resume](https://drive.google.com/file/d/18Ij7bJfb3_ZrRKqBvQ2qSMuuFQqFkPMa/view?usp=sharing)
 
 <!-- - ⚡ Fun fact **For me, nothing beats the thrill of overcoming challenges.**-->
 
