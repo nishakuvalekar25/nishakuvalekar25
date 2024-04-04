@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **nishakuvalekar25@gmail.com**
 
-- 📄 Know about my experiences [Nisha Kuvalekar's Resume](https://drive.google.com/file/d/18Ij7bJfb3_ZrRKqBvQ2qSMuuFQqFkPMa/view?usp=sharing)
+- 📄 Know about my experiences [Nisha Kuvalekar's Resume](https://drive.google.com/file/d/18Ij7bJfb3_ZrRKqBvQ2qSMuuFQqFkPMa/view?usp=drive_link)
 
 <!-- - ⚡ Fun fact **For me, nothing beats the thrill of overcoming challenges.**-->
 
@@ -36,5 +36,5 @@
 <h3 align="left">GitHub Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishakuvalekar25&show_icons=true&locale=en&layout=donut&theme=tokyonight&hide_border=true" alt="nishakuvalekar25" /></p>
 <!-- ![nishakuvalekar25's Stats](https://github-readme-stats.vercel.app/api?username=nishakuvalekar25&theme=tokyonight&show_icons=true&hide_border=true&count_private=true) -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishakuvalekar25&show_icons=true&locale=en&theme=tokyonight&rank_icon=github&hide_border=true&count_private=true" alt="nishakuvalekar25" /></p> <br/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishakuvalekar25&show_icons=true&locale=en&theme=tokyonight&rank_icon=github&hide_border=true" alt="nishakuvalekar25" /></p> <br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishakuvalekar25&theme=tokyonight&hide_border=true" alt="nishakuvalekar25" /></p>
