@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nisha Kuvalekar</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<!-- <h3 align="center">A passionate web developer from India</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishakuvalekar25&label=Profile%20views&color=0e75b6&style=flat" alt="nishakuvalekar25" /> </p>
 
@@ -9,13 +9,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/nishakuvalekar25](https://github.com/nishakuvalekar25)
 
-- 📝 I regularly write articles on [https://dev.to/nishakuvalekar25](https://dev.to/nishakuvalekar25)
+<!--- 📝 I regularly write articles on [https://dev.to/nishakuvalekar25](https://dev.to/nishakuvalekar25) -->
 
-- 💬 Ask me about **CSS, JavaScript, PHP**
+- 💬 Ask me about **CSS, JavaScript, React, PHP**
 
 - 📫 How to reach me **nishakuvalekar25@gmail.com**
 
-- 📄 Know about my experiences [Nisha Kuvalekar's Resume](https://drive.google.com/file/d/18Ij7bJfb3_ZrRKqBvQ2qSMuuFQqFkPMa/view?usp=drive_link)
+- 📄 Know about my experiences [Nisha Kuvalekar's Resume](https://drive.google.com/file/d/1CR1IC6_ej4cggHYGXLI8gRtFCEGsK4q-/view?usp=sharing)
 
 <!-- - ⚡ Fun fact **For me, nothing beats the thrill of overcoming challenges.**-->
 
