@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **DialogueDrift**
 
-- 🌱 I’m currently learning **MERN stack development**
+- 🌱 I’m currently learning ...
 
 - 👨‍💻 All of my projects are available at [https://github.com/nishakuvalekar25](https://github.com/nishakuvalekar25)
 
 <!--- 📝 I regularly write articles on [https://dev.to/nishakuvalekar25](https://dev.to/nishakuvalekar25) -->
 
-- 💬 Ask me about **CSS, JavaScript, React, PHP**
+<!-- - 💬 Ask me about **CSS, JavaScript, React, PHP** -->
 
 - 📫 How to reach me **nishakuvalekar25@gmail.com**
 
