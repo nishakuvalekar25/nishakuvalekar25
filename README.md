@@ -24,10 +24,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/nishakuvalekar25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nishakuvalekar25" height="30" width="40" /></a>
+<!-- <a href="https://dev.to/nishakuvalekar25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nishakuvalekar25" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/nisha-kuvalekar-02218327a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nisha-kuvalekar-02218327a" height="30" width="40" /></a>
 <a href="https://www.behance.net/nishakuvalekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="nishakuvalekar" height="30" width="40" /></a>
-<a href="https://medium.com/@nishakuvalekar25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nishakuvalekar25" height="30" width="40" /></a>
+<!-- <a href="https://medium.com/@nishakuvalekar25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nishakuvalekar25" height="30" width="40" /></a> -->
 </p>
 
 
